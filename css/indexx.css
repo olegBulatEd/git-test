@@ -1,3 +1,10 @@
 body {
     background-color: blue;
 }
+h2 {
+    color: chocolate;
+}
+p {
+    color: chartreuse;
+    font-size: 35px;
+}
